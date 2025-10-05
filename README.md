@@ -10,3 +10,6 @@ python webserver.py
 ```
 
 should open the server on port http 5000 to be able to be used locally.
+
+# Credits
+The JunctionX Delft IEEE team with assistance from sustainable LLMs.
